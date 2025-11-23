@@ -79,3 +79,7 @@ The program will print:
 
 
 Your calculated BMI Your health classification Input Test Example ➤ Enter your height in inches: 70 Enter weight in lbs: 150 ➤ Example Output Your BMI is: 21.52 and you are: healthy Try various height/weight combinations to test the different BMI categories
+
+SCREENSHOT:
+
+<img width="700" height="77" alt="VITYARTHI PROJECT OUTPUT" src="https://github.com/user-attachments/assets/6a7b0853-b1a3-42fb-aa98-4d08d8c1748f" />
